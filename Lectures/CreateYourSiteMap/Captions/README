@@ -1,0 +1,5 @@
+It is a good idea to caption your lectures. Open captioning means that the captions are burned into the rendered video. Closed captioning means that a caption file has been included with the video.
+
+This directory contains the caption files for the different languages.
+
+Udemy accepts different caption file formats. SubRip Text (.srt) is a commonly used, and relatively easily created format. You can upload your video to Youtube and work with its CC tool to generate caption files in different formats, including .srt.
