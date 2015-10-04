@@ -1,0 +1,1 @@
+This file contains the text for your Course Summary. It's probably best to just keep it as simple text, to make it easy to copy and paste. You can do the formatting in Udemy's rich text editor interface.

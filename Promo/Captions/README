@@ -1,0 +1,7 @@
+It is a good idea to caption your promo[1]. Open captioning means that the captions are burned into the rendered video. Closed captioning means that a caption file has been included with the video.
+
+This directory contains the caption files for the different languages.
+
+Udemy accepts different caption file formats. SubRip Text (.srt) is a commonly used, and relatively easily created format. You can upload your video to Youtube and work with its CC tool to generate caption files in different formats, including .srt.
+
+[1] As of this writing, Udemy doesn't actually support captioning of the Promo video, at least not for the general instructor population. You may wish to hold off on this. However, it's a good idea to upload your Promo to Youtube and it would be good to have it captioned there properly. So, I still stand by the recommendation to do the captions :)

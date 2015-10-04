@@ -1,0 +1,1 @@
+This file will contain the outline for your course, including the Sections, Lectures and the descriptions for them. You might also want to include the quizzes. You do not need to include the resources here, as there is a folder for that inside of each lecture directory.

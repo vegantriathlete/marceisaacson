@@ -1,0 +1,1 @@
+This directory contains one subdirectory for each lecture in the course. Anything that will be used by multiple lectures should be placed in the Assets directory (the directory that is a sibling of this one).
